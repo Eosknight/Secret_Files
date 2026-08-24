@@ -38,5 +38,9 @@ In this course we see 4 of Them
 
 
 
+## Practical
+
+> [!NOTE]
+> I go on the website and go to my profil. I change my ID=11 to ID=9 to have access to the database profil. I delete all the data, and have the flag. Its typically Broken Acces Control
 
 
