@@ -3,9 +3,5 @@
 > [!NOTE]
 > **Difficulty :** Easy | **Objectif : Learn about web app**
 
-## 📑 Summary
-- [1. Introduction ](#1-Introduction)
-
-
-## 1. Introduction
+* Une idée générale ou un nouveau concept découvert.
 
