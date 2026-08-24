@@ -13,5 +13,30 @@
   R : Brower
 
   
+## Web Application Risking
+
+In Web App, you can have a lot of Vulnaribilities.
+In this course we see 4 of Them
+
+*Identification an authetification failures
+> [!NOTE]
+> The webapp have no restriction for password failure, so at least you can easily bruteforce it
+
+*Broken acces control
+> [!NOTE]
+> Inside the website when you login, you have like Id?=1, a good website dosen't allow you to see the other user, but in broken access control you can id?=1 to id?=2 and see other account, its Broken Access control.
+
+
+*Injection
+> [!NOTE]
+> It mean you can inject malicious code on the website or webapp using like Upload, or commentary section
+
+
+*Cryprography failure
+> [!NOTE]
+> It's when you doesn't encrypt your data or use an old one, for exemple, using an old encryption can be easily beat
+
+
+
 
 
